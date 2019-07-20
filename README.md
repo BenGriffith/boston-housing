@@ -1,4 +1,4 @@
-# boston_housing
+# boston-housing
 
 First Project for Udacity Machine Learning Nanodegree.
 
